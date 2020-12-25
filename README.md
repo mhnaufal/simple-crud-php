@@ -41,5 +41,6 @@ Tutorials that I use in this project
 - [Tutorial Republic](https://www.tutorialrepublic.com/php-tutorial/php-mysql-crud-application.php)
 - [chapagain's repo](https://github.com/chapagain/crud-php-simple)
 - [chapagain's blog](https://blog.chapagain.com.np/very-simple-add-edit-delete-view-in-php-mysql/)
+- [Daily Tuition](https://www.youtube.com/watch?v=JZdMXUIMdQw)
 
 Thanks! :smile:
